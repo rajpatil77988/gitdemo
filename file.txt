@@ -3,3 +3,7 @@ Hello world
 V.2 Modified work
 
 login feature updated to bug1
+
+trying 3 -way merging
+change 2-> bug2
+new change4
