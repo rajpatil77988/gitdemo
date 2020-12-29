@@ -4,6 +4,11 @@ V.2 Modified work
 
 login feature updated to bug1
 
+
 trying 3 -way merging
 change 2-> bug2
-new change4
+change 4 -> new change4 by teammate
+
+trying 3 way merging
+change 2 bug2
+ bug2
